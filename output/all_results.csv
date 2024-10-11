@@ -1,0 +1,71 @@
+Property ID,Postal code,Locality name,Price,Type of property,Number of rooms,Living area,Equipped kitchen,State of building,Number of facades,Furnished,Open fire,Swimming pool,Garden (m²),Terrace (m²)
+20241257,6560,solre-sur-sambre,195000,apartment-block,4.0,178,1,To be done up,,0,0,0,,Yes
+11126459,8470,gistel,380000,house,,609,0,To renovate,3.0,0,0,0,,
+20241238,6940,barvaux,875000,villa,6.0,490,1,,4.0,0,0,0,,
+20241302,2280,grobbendonk,330000,house,1.0,100,1,,4.0,0,0,0,,
+20241223,8400,oostende,279500,apartment,1.0,45,0,,,0,0,0,,
+20241273,6220,fleurus,315000,house,2.0,100,1,To be done up,4.0,0,0,0,1030.0,14
+20241289,3050,oud-heverlee,547000,house,5.0,244,0,To renovate,4.0,0,0,0,,
+20241206,9450,haaltert,384000,house,4.0,178,1,As new,2.0,0,0,0,,19
+20241237,2480,dessel,356625,house,3.0,125,0,As new,4.0,0,0,0,,Yes
+10808573,4102,ougree,145000,house,2.0,90,0,To renovate,2.0,0,0,0,,
+20241202,2300,turnhout,455000,house,3.0,248,1,As new,2.0,0,0,0,,
+20005741,2100,deurne,199000,apartment,2.0,1,1,,,0,0,0,,
+20241288,8310,assebroek,325000,apartment,2.0,105,1,To renovate,4.0,0,0,0,,Yes
+20241221,1800,vilvoorde,375000,house,4.0,130,0,,2.0,0,0,0,,
+20241230,8520,kuurne,245000,apartment,2.0,86,0,As new,,0,0,0,,5
+20241248,9000,gent,1200000,apartment-block,9.0,240,1,Good,2.0,1,0,0,,51
+20240771,1030,schaerbeek,142500,apartment,1.0,44,1,Good,2.0,0,0,0,,
+20241307,9032,gent,397000,house,3.0,156,1,,3.0,0,0,0,,Yes
+20241243,2200,noorderwijk,576000,villa,3.0,185,0,,,0,0,0,,Yes
+20241265,8370,blankenberge,695000,villa,4.0,261,0,As new,4.0,0,0,1,,Yes
+20241236,1150,woluwe-saint-pierre,475000,apartment,4.0,167,1,To be done up,2.0,0,0,0,,12
+11373129,8670,wulpen,1190000,villa,6.0,380,1,Good,,0,0,0,,
+20236289,2018,antwerpen-2018,375000,apartment,2.0,100,1,Good,,0,0,0,,20
+20241214,2000,antwerpen,299000,apartment,2.0,100,1,Good,2.0,0,0,0,,16
+20241218,9140,temse,339000,ground-floor,3.0,0,1,As new,,0,0,0,,26
+20241285,8790,waregem,475000,house,4.0,247,1,As new,4.0,0,0,0,,
+20241213,2260,westerlo,220000,house,3.0,127,0,To renovate,3.0,0,0,0,,Yes
+20241210,1500,halle,250000,house,3.0,99,0,,2.0,0,0,0,,Yes
+20241209,2610,antwerpen,299000,ground-floor,2.0,76,1,Good,3.0,0,0,0,120.0,Yes
+20241282,8000,brugge,475000,house,5.0,209,1,Good,3.0,0,0,1,1098.0,40
+20241208,2890,sint-amands,195000,house,5.0,244,0,To renovate,2.0,0,0,0,350.0,40
+20241275,7700,mouscron,195000,house,4.0,123,1,As new,2.0,0,0,0,75.0,27
+20241272,7823,gibecq,249000,house,3.0,108,1,Good,4.0,0,1,0,,
+20241228,8530,harelbeke,239000,house,3.0,148,0,Good,2.0,0,0,0,,Yes
+20240545,2660,hoboken,269000,apartment,2.0,86,1,As new,,0,0,0,,25
+20241257,6560,solre-sur-sambre,195000,apartment-block,4.0,178,1,To be done up,,0,0,0,,Yes
+11126459,8470,gistel,380000,house,,609,0,To renovate,3.0,0,0,0,,
+20241238,6940,barvaux,875000,villa,6.0,490,1,,4.0,0,0,0,,
+20241302,2280,grobbendonk,330000,house,1.0,100,1,,4.0,0,0,0,,
+20241223,8400,oostende,279500,apartment,1.0,45,0,,,0,0,0,,
+20241273,6220,fleurus,315000,house,2.0,100,1,To be done up,4.0,0,0,0,1030.0,14
+20241289,3050,oud-heverlee,547000,house,5.0,244,0,To renovate,4.0,0,0,0,,
+20241206,9450,haaltert,384000,house,4.0,178,1,As new,2.0,0,0,0,,19
+20241237,2480,dessel,356625,house,3.0,125,0,As new,4.0,0,0,0,,Yes
+10808573,4102,ougree,145000,house,2.0,90,0,To renovate,2.0,0,0,0,,
+20241202,2300,turnhout,455000,house,3.0,248,1,As new,2.0,0,0,0,,
+20005741,2100,deurne,199000,apartment,2.0,1,1,,,0,0,0,,
+20241288,8310,assebroek,325000,apartment,2.0,105,1,To renovate,4.0,0,0,0,,Yes
+20241221,1800,vilvoorde,375000,house,4.0,130,0,,2.0,0,0,0,,
+20241230,8520,kuurne,245000,apartment,2.0,86,0,As new,,0,0,0,,5
+20241248,9000,gent,1200000,apartment-block,9.0,240,1,Good,2.0,1,0,0,,51
+20240771,1030,schaerbeek,142500,apartment,1.0,44,1,Good,2.0,0,0,0,,
+20241307,9032,gent,397000,house,3.0,156,1,,3.0,0,0,0,,Yes
+20241243,2200,noorderwijk,576000,villa,3.0,185,0,,,0,0,0,,Yes
+20241265,8370,blankenberge,695000,villa,4.0,261,0,As new,4.0,0,0,1,,Yes
+20241236,1150,woluwe-saint-pierre,475000,apartment,4.0,167,1,To be done up,2.0,0,0,0,,12
+11373129,8670,wulpen,1190000,villa,6.0,380,1,Good,,0,0,0,,
+20236289,2018,antwerpen-2018,375000,apartment,2.0,100,1,Good,,0,0,0,,20
+20241214,2000,antwerpen,299000,apartment,2.0,100,1,Good,2.0,0,0,0,,16
+20241218,9140,temse,339000,ground-floor,3.0,0,1,As new,,0,0,0,,26
+20241285,8790,waregem,475000,house,4.0,247,1,As new,4.0,0,0,0,,
+20241213,2260,westerlo,220000,house,3.0,127,0,To renovate,3.0,0,0,0,,Yes
+20241210,1500,halle,250000,house,3.0,99,0,,2.0,0,0,0,,Yes
+20241209,2610,antwerpen,299000,ground-floor,2.0,76,1,Good,3.0,0,0,0,120.0,Yes
+20241282,8000,brugge,475000,house,5.0,209,1,Good,3.0,0,0,1,1098.0,40
+20241208,2890,sint-amands,195000,house,5.0,244,0,To renovate,2.0,0,0,0,350.0,40
+20241275,7700,mouscron,195000,house,4.0,123,1,As new,2.0,0,0,0,75.0,27
+20241272,7823,gibecq,249000,house,3.0,108,1,Good,4.0,0,1,0,,
+20241228,8530,harelbeke,239000,house,3.0,148,0,Good,2.0,0,0,0,,Yes
+20240545,2660,hoboken,269000,apartment,2.0,86,1,As new,,0,0,0,,25
